@@ -58,5 +58,6 @@ https://drive.google.com/drive/folders/1NEIEqtID90iXQzqr4Uuie26XRqzABX1q
 Bayesian optimization works by constructing a posterior distribution of functions (Gaussian process) that best describes the function you want to optimize. As the number of observations grows, the posterior distribution improves and the algorithm becomes more certain of which regions in the parameter space are worth exploring and which are not.
 
 9. Application of the model to an unknown area.
+
 10. Interpretation results.
 
